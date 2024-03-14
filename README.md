@@ -1,3 +1,3 @@
 # ClusterSimagroRS
 SimagroRS Clustering paper.
-Submission repository - ACM SAC 2024.
+Submission repository - SBSI 2024.
